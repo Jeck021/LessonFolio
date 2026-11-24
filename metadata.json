@@ -1,0 +1,6 @@
+{
+  "name": "LessonFolio",
+  "description": "A warm editorial K-12 teacher workspace for discovering classroom resources, organizing personalized lesson folders, and researching with an agentic AI teaching assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
